@@ -40,7 +40,7 @@ $ ./cabal-dev/bin/blaise
 
 At which point you're off and running!
 ```common-lisp
-> (+ 1 2 3 4 5 6)
-21
+> (* (+ 1 2 3 4 5 6) 2)
+42
 >
 ```
