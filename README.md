@@ -10,7 +10,8 @@ This project is described in Slava's related
 There is also some 
 [related material](http://members.gamedev.net/coffeemug/test/blaise/faq.html)
 discussing Slava's motivation for working on this project. Furthermore, the
-article has been compied over to the [[wiki|Home]] in the hopes of preserving it.
+article has been compied over to the [wiki](https://github.com/haskell-lisp/blaise/wiki)
+in the hopes of preserving it.
 
 ### Dependencies
 
