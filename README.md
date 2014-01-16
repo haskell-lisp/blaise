@@ -37,3 +37,10 @@ Build, install in, and run from a local dev env:
 $ cabal-dev install
 $ ./cabal-dev/bin/blaise
 ```
+
+At which point you're off and running!
+```common-lisp
+> (+ 1 2 3 4 5 6)
+21
+>
+```
