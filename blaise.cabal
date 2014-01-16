@@ -2,7 +2,7 @@ name: blaise
 version: 0.1
 license: AllRightsReserved
 license-file: ""
-build-depends: base -any, mtl ==1.0, parsec ==1.0
+build-depends: base -any, containers, mtl, parsec
  
 executable: blaise
 main-is: Main.hs
